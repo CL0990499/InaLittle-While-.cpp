@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\InaLittle-While-.cpp\\InaLittleWhile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F114A242-4651-4F5A-BBA9-09D521D3EF7E}|InaLittleWhile.vcxproj|C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\InaLittle-While-.cpp\\InaLittleWhile\\InaLittleWhile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F114A242-4651-4F5A-BBA9-09D521D3EF7E}|InaLittleWhile.vcxproj|solutionrelative:InaLittleWhile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InaLittleWhile.cpp",
+              "DocumentMoniker": "C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\InaLittle-While-.cpp\\InaLittleWhile\\InaLittleWhile.cpp",
+              "RelativeDocumentMoniker": "InaLittleWhile.cpp",
+              "ToolTip": "C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\InaLittle-While-.cpp\\InaLittleWhile\\InaLittleWhile.cpp",
+              "RelativeToolTip": "InaLittleWhile.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T00:19:31.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

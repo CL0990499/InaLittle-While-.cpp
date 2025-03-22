@@ -1,0 +1,3 @@
+﻿  InaLittleWhile.cpp
+C:\Users\ctlaw\OneDrive - Ozarks Technical Community College\CSC-140\InaLittle-While-.cpp\InaLittleWhile\InaLittleWhile.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  InaLittleWhile.vcxproj -> C:\Users\ctlaw\OneDrive - Ozarks Technical Community College\CSC-140\InaLittle-While-.cpp\InaLittleWhile\x64\Debug\InaLittleWhile.exe
